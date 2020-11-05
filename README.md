@@ -12,7 +12,7 @@
 * Matplotlib
 * csv
 
-## It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+# It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 ## Why this Project?
 > In this project, we have to go through the data analysis process and see how everything fits together. I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier!
