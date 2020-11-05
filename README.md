@@ -1,23 +1,23 @@
-[Image of numpypandasmatplotlib](https://octodex.github.com/images/numpypandasmatplotlib.png)
+![Image of numpypandasmatplotlib](https://octodex.github.com/images/numpypandasmatplotlib.png)
 
 # Project Overview
 > In this project, we have to analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
 > We recommend installing [Anaconda](https://www.anaconda.com/products/individual/), which comes with all of the necessary packages, as well as IPython notebook. You can find installation instructions [here](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated).
 
-# What do I need to install? You will need an installation of Python, plus the following libraries:
+## What do I need to install? You will need an installation of Python, plus the following libraries:
 
 * pandas
 * NumPy
 * Matplotlib
 * csv
 
-# It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+## It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
-# Why this Project?
+## Why this Project?
 > In this project, we have to go through the data analysis process and see how everything fits together. I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier!
 
-# What will I learn?
+## What will I learn?
 > After completing the project, I have learned following :
 
 * Know all the steps involved in a typical data analysis process
