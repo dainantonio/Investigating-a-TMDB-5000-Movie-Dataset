@@ -1,4 +1,4 @@
-![Image of numpypandasmatplotlib](https://octodex.github.com/images/numpypandasmatplotlib.png)
+![Image of numpypandasmatplotlib](https://github.com/dainantonio/Data-Analytics/blob/main/numpypandasmatplotlib.png)
 
 # Project Overview
 > In this project, we have to analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
