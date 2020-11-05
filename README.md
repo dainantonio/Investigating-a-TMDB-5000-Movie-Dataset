@@ -1,28 +1,30 @@
-# Business-Analytics
+[Image of numpypandasmatplotlib](https://octodex.github.com/images/numpypandasmatplotlib.png)
 
-Projects displaying the application of Excel, SQL, and Tableau to manipulate, analyze, and visualize data 
+# Project Overview
+> In this project, we have to analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
+> We recommend installing [Anaconda](https://www.anaconda.com/products/individual/), which comes with all of the necessary packages, as well as IPython notebook. You can find installation instructions [here](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated).
 
-## Prerequisites
+# What do I need to install? You will need an installation of Python, plus the following libraries:
 
-There are no prerequisites for this program, apart from basic computer skills like opening files, folders and applications and performing simple operations such as copy and paste.
+* pandas
+* NumPy
+* Matplotlib
+* csv
 
+# It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
-## About
+# Why this Project?
+> In this project, we have to go through the data analysis process and see how everything fits together. I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier!
 
-In this program we gain the foundational data skills applicable to any industry like engineering, sales, marketing and operations. We collect and analyze data, model business scenarios, and communicate our findings with SQL, Excel, and Tableau.
+# What will I learn?
+> After completing the project, I have learned following :
 
-This program was created in collaboration with following industry partners:
-
-Tableau
-Mode Analytics
-Estimated Duration: 3 Months
-Program Structure: Self-Paced
-
-
-## Project 1 - Interpret a Data Visualization
-
-This project will allow you to draw insights from interactive dashboards.
-A large part of working with data is being able to interpret data visualizations and explain your insights to others. This project will build your intuition on working with data dashboards, while also showing you the types of beautiful visualizations you will be able to produce by the end of this program!
-
+* Know all the steps involved in a typical data analysis process
+* Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+* Know how to investigate problems in a dataset and wrangle the data into a format you can use
+* Have practice communicating the results of your analysis
+* Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
+* Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+* Know how to use Matplotlib to produce plots showing your findings
 
