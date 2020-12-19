@@ -2,6 +2,7 @@
 
 # Project Overview
 > In this project, I analyzed a dataset and then communicated my findings about it. I used the Python libraries NumPy, pandas, and Matplotlib to make the analysis easier.
+> This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
 
 ### It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
@@ -14,8 +15,14 @@
 * Matplotlib
 * csv
 
-## Why this Project?
-> In this project, I went through the data analysis process and see how everything fits together. 
+## What questions I explored?
+1. What is the number of movies released each year?
+2. How long are the movies?
+3. What is the average budget and revenue for the movies?
+4. What is the relationship between movie budget and revenue?
+5. How many movies in each genre?
+6. What is the most profitable movie?
+
 
 ## What have I learned?
 > After completing the project, I learned the following :
