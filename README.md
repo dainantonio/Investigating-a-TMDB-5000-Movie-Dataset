@@ -4,7 +4,7 @@
 > In this project, I analyzed a dataset and then communicated my findings about it. I used the Python libraries NumPy, pandas, and Matplotlib to make the analysis easier.
 > This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
 
-### It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+### It is recommended to install Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 > I recommend installing [Anaconda](https://www.anaconda.com/products/individual/), which comes with all of the necessary packages, as well as IPython notebook. You can find installation instructions [here](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated).
 
