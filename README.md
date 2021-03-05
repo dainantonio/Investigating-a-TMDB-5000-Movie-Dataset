@@ -35,3 +35,6 @@
 * familiarity with pandas' Series and DataFrame objects, which allows the data to be accessed more conveniently
 * how to use Matplotlib to produce plots showing the findings
 
+## Findings
+
+I observed that Budget and Revenue have a positively correlated relationship.The revenue has remained higher than the budget throughout the years. Drama and Comedy are most popular evident by amount of movies within each genre.
